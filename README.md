@@ -1,5 +1,7 @@
 ### Hi there 👋
-### I am learning about Web Development.🌱
+### I am learning about Web Development. 💻
+### I love coding. 💖
+### I started coding from the days of my school. 🎒
 <!--
 **ushmita4/ushmita4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
