@@ -2,7 +2,7 @@
 ### I am learning about Web Development. 💻
 ### I love coding. 💖
 ### I started coding from the days of my school. 🎒
-![Github stats](https://github-readme-stats.vercel.app/api?username=sumeetweb&count_private=true&show_icons=true&title_color=333&icon_color=333)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ushmita4&count_private=true&show_icons=true&title_color=333&icon_color=333)
 <!--
 **ushmita4/ushmita4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
