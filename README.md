@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" height="500" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
 ### Hi there 👋
 ### I am learning about Web Development. 💻
 ### I love coding. 💖
