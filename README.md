@@ -3,6 +3,8 @@
 ### I am learning about Web Development. 💻
 ### I love coding. 💖
 ### I started coding from the days of my school. 🎒
+### Open Source Programs I have contributed uptil now:-
+<img src="https://github.com/Ayush7614/Instatags/blob/master/devincept.gif" alt="DevIncept" /></img>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ushmita4&count_private=true&show_icons=true&title_color=333&icon_color=333)
 
 <img src="https://komarev.com/ghpvc/?username=ushmita4">
@@ -22,5 +24,3 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ushmita4&count_private=true&show_icons=true&title_color=333&icon_color=333)
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ushmita4&count_private=true&show_icons=true&title_color=333&icon_color=333)
-### Open Source Programs I have contributed uptil now:-
-<img src="https://github.com/Ayush7614/Instatags/blob/master/devincept.gif" alt="DevIncept" /></img>
