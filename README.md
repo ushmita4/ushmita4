@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200" /></img>
-### Hi there 👋
+<p align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200" /></img></p>
+### Hi there 👋/p
 ### I am learning about Web Development. 💻
 ### I love coding. 💖
 ### I started coding from the days of my school. 🎒
