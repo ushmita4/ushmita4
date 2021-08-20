@@ -4,7 +4,7 @@
 ### I love coding. 💖
 ### I started coding from the days of my school. 🎒
 ### Open Source Programs I have contributed uptil now:-
-<img src="https://github.com/Ayush7614/Instatags/blob/master/devincept.gif" alt="DevIncept" /></img>
+<p><img src="https://github.com/Ayush7614/Instatags/blob/master/devincept.gif" alt="DevIncept" /></img></p>
 ![Contributors Badge](https://user-images.githubusercontent.com/76655696/128589625-6130dfe5-ac92-4591-a8f6-06419cb944a6.jpeg)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ushmita4&count_private=true&show_icons=true&title_color=333&icon_color=333)
 
