@@ -1,4 +1,4 @@
-<p align="centre"><img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200" /></img></p>
+<img class="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200" /></img>
 ### Hi there 👋
 ### I am learning about Web Development. 💻
 ### I love coding. 💖
