@@ -12,6 +12,7 @@
 ![Contributors Badge](https://user-images.githubusercontent.com/76655696/128589625-6130dfe5-ac92-4591-a8f6-06419cb944a6.jpeg)
 ![image](https://user-images.githubusercontent.com/76655696/137631258-260c06b5-57af-4ae2-b4fb-4e4cef5f7063.png)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ushmita4&count_private=true&show_icons=true&title_color=333&icon_color=333)
+![Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ushmita4&theme=vue)
 
 <img src="https://komarev.com/ghpvc/?username=ushmita4">
 <!--
