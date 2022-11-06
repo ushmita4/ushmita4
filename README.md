@@ -1,5 +1,4 @@
 ### Experience the wonders when a competitive programmer steps into the world of Development.
-[![@ushmitadutta's Holopin board](https://holopin.me/ushmitadutta)](https://holopin.io/@ushmitadutta)
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200" /></img>
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 ### Hi there 👋
@@ -14,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/76655696/137631258-260c06b5-57af-4ae2-b4fb-4e4cef5f7063.png)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ushmita4&count_private=true&show_icons=true&title_color=333&icon_color=333)
 ![Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ushmita4&theme=vue)
-
+[![@ushmitadutta's Holopin board](https://holopin.me/ushmitadutta)](https://holopin.io/@ushmitadutta)
 <img src="https://komarev.com/ghpvc/?username=ushmita4">
 <!--
 **ushmita4/ushmita4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
